@@ -16,7 +16,7 @@
 
   - Use o comando: `git clone git@github.com:matheusnff85/inventory-report.git`
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-020-b-inventory-report`
+    - `cd inventory-report`
 
   2. Crie o ambiente virtual para o projeto
 
