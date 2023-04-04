@@ -1,6 +1,6 @@
 # Inventory Report
 
-- Esse projeto funciona como um gerador de relátorios para um estoque, seguindo os padrões da Programação Orientada a Ojbetos (POO), o projeto pode receber arquivos dos tipos **JSON**, **CSV** e **XML**, a partir deles a aplicação gera dois tipos de relátorios o simples e o completo.
+- Esse projeto funciona como um gerador de relatórios para um estoque, seguindo os padrões da Programação Orientada a Objetos (POO), o projeto pode receber arquivos dos tipos **JSON**, **CSV** e **XML**, a partir deles a aplicação gera dois tipos de relatórios, o simples e o completo.
 
 ---
 
@@ -26,7 +26,7 @@
 
   - `python3 -m pip install -r dev-requirements.txt`
 
-  Após tudo feito o programa ja pode ser executado <strong>via linha de comando</strong>.
+  Após tudo feito o programa já pode ser executado <strong>via linha de comando</strong>.
   
   O comando a ser executado será `inventory_report`. Para que ele funcione em seu ambiente é preciso antes instalar o próprio código como um pacote pip:
   <code>pip install .</code>
