@@ -1,10 +1,39 @@
-# :construction: README em construção ! :construction: !
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Nome do projeto
+
+- Descrição básica do projeto
+
+---
+
+# Tecnologias utilizadas :books:
+
+- Tecnologias
+
+---
+
+# Como Utilizar a aplicação
+
+## Importante :warning:
+
+- Alguma informação importante sobre a aplicação.
+
+<details>
+  <summary>
+    <strong>
+      Rodando com o docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" />
+    </strong>
+  </summary><br>
+
+  - Passo a passo para rodar com o docker
+
+</details>
+
+<details>
+  <summary><strong>Rodando sem o docker:wrench:</strong></summary><br>
+
+  - Passo a passo para rodar sem docker
+
+</details>
+
+---
+
+- Desenvolvido por [Matheus Marinho](https://www.linkedin.com/in/matheus-marinhodsp/).
